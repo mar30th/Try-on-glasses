@@ -1,0 +1,18 @@
+
+.home{
+    height: 100px;
+    background-image: "../assets/colorful-powder-explosion-white-background_44314-3537.jpg";
+}
+
+.overlay{
+    background-color: orange;
+    height: 110;
+    width: 282;
+    bottom: 120;
+    left: 141;
+    color: "orange";
+}
+
+#homePage{
+    background-image: url(../assets/colorful-powder-explosion-white-background_44314-3537.avif);
+}
